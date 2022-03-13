@@ -1,0 +1,19 @@
+{
+    "product": [
+        {
+            "productNo": "001",
+            "productName": "아메리카노",
+            "unitPrice": "3000"
+        },
+        {
+            "productNo": "002",
+            "productName": "카페라떼",
+            "unitPrice": "4000"
+        },
+        {
+            "productNo": "003",
+            "productName": "콜드브루",
+            "unitPrice": "3500"
+        }
+    ]
+}
